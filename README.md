@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy Rafa 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 6 años experiencia.<br /></p>
+<p align="center">Soy <strong>Desarrollador Full Stack</strong> con 6 años experiencia.<br /></p>
 
 <!--
 <p align="center">
