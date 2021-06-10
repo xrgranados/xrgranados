@@ -16,6 +16,9 @@
   <a href="https://twitter.com/xrgranados" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
   </a>
+  <a href="https://www.linkedin.com/in/rafael-granados-b1603659/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
+  </a>
 </p>
 
 <!--
