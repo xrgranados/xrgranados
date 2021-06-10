@@ -1,8 +1,7 @@
-<style>
-   .avatar {border-radius: 50%}
-</style>
 <p align="center" width="300">
-   <img align="center" width="200" class="avatar" src="https://avatars.githubusercontent.com/u/1679557?v=4" />
+   <span style="border-radius: 50%;">
+      <img align="center" width="200" class="avatar" src="https://avatars.githubusercontent.com/u/1679557?v=4" />
+   </span>
    <h3 align="center">¡Hey 👋! Soy Rafa</h3>
 </p>
 
