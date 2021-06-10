@@ -1,6 +1,6 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/1679557?v=4" />
-   <h3 align="center">¡Hey 👋! Soy Rafa 👨🏻‍💻</h3>
+   <img align="center" width="200" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/1679557?v=4" />
+   <h3 align="center">¡Hey 👋! Soy Rafa</h3>
 </p>
 
 <p align="center">Soy <strong>Desarrollador Full Stack</strong> con 6 años experiencia.<br /></p>
