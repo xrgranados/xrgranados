@@ -1,12 +1,12 @@
+<h3 align="center">¡Hey 👋! Soy Rafa</h3>
+
 <p align="center" width="300">
    <span style="border-radius: 50%;">
-      <img align="center" width="200" class="avatar" src="https://avatars.githubusercontent.com/u/1679557?v=4" />
+      <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/javascript.gif" />
    </span>
-   <h3 align="center">¡Hey 👋! Soy Rafa</h3>
 </p>
 
 <p align="center">Soy <strong>Desarrollador Full Stack</strong> con 6 años experiencia.<br /></p>
-
 
 <p align="center">
    <a href="https://codepen.com/xrgranados" target="blank" style='margin-right:4px'>
