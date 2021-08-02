@@ -3,7 +3,8 @@
 <p align="center" width="300">
    <span style="border-radius: 50%;">
 <!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/javascript.gif" /> -->
-      <img align="center" class="cover" src="https://media1.giphy.com/media/l2R0flMBPtMGU0wbm/200w.gif" />
+      <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" />
+      <!-- <img align="center" class="cover" src="https://media1.giphy.com/media/l2R0flMBPtMGU0wbm/200w.gif" /> -->
    </span>
 </p>
 
