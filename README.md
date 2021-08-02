@@ -1,5 +1,8 @@
 # Hi, I'm Rafael :guatemala:
 
+<p align="center"><strong>Full Stack Web Developer</strong> with more than 5 years of solid experience in backend, frontend,
+databases, mobile applications, web services and other technologies.<br /></p>
+
 <p align="center" width="300">
    <span style="border-radius: 50%;">
 <!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/javascript.gif" /> -->
@@ -7,9 +10,6 @@
       <!-- <img align="center" class="cover" src="https://media1.giphy.com/media/l2R0flMBPtMGU0wbm/200w.gif" /> -->
    </span>
 </p>
-
-<p align="center"><strong>Full Stack Web Developer</strong> with more than 5 years of solid experience in backend, frontend,
-databases, mobile applications, web services and other technologies.<br /></p>
 
 <p align="center">
    <a href="https://codepen.com/xrgranados" target="blank" style='margin-right:4px'>
