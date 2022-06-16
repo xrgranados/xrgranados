@@ -1,20 +1,26 @@
 # Hi, I'm Rafael :guatemala:
 
-<p align="center">Web developer with several years of experience building web applications using the latest backend and front-end technology.<br /></p>
+<p>Web developer with several years of experience building web applications using the latest backend and front-end technology.<br /></p>
+
+<p>Experienced in developing the infrastructure behind web applications, REST APIs and hybrid mobile applications using cutting edge technologies between ReactJS, Angular, Ionic, Laravel, Codeigniter, Nodejs among others.</p>
 
 <p align="center">
-   <a href="https://codepen.com/xrgranados" target="blank" style="margin-right:4px">
+<!--    <a href="https://codepen.com/xrgranados" target="blank" style="margin-right:4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="xrgranados on Codepen" height="28px" width="28px" />
-  </a>
-  <a href="https://instagram.com/xrgranados" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xrgranados on Instagram" height="28px" width="28px" />
+  </a> -->
+  
+  <a href="https://www.linkedin.com/in/rafael-granados-b1603659/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xrgranados on Linkedin" height="28px" width="28px" />
   </a>
   <a href="https://twitter.com/xrgranados" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xrgranados on Twitter" height="28px" width="28px" />
   </a>
-  <a href="https://www.linkedin.com/in/rafael-granados-b1603659/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xrgranados on Linkedin" height="28px" width="28px" />
+   <a href="https://instagram.com/xrgranados" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xrgranados on Instagram" height="28px" width="28px" />
   </a>
+   <a href="https://telegram.me/xrgranados" target="blank">
+       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xrgranados on Telegram" height="28px" width="28px" />
+   </a>
 </p>
 
 <p align="center" width="300">
