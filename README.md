@@ -1,14 +1,14 @@
 # Hi, I'm Rafael :guatemala:
 
-<p align="center"><strong>Full Stack Web Developer</strong> with more than 5 years of solid experience in backend, frontend,
-databases, mobile applications, web services and other technologies.<br /></p>
+<p align="center">Web developer with several years of experience building web applications using the latest backend and front-end technology.<br /></p>
 
 <p align="center" width="300">
-   <span style="border-radius: 50%;">
+    <span style="border-radius: 50%;">
 <!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/javascript.gif" /> -->
-      <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" />
+<!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" /> -->
+        <img align="center" class="cover" src="https://user-images.githubusercontent.com/1679557/174097400-bed7c449-6373-4fe0-95d7-bb504f84ce7b.gif" />  
       <!-- <img align="center" class="cover" src="https://media1.giphy.com/media/l2R0flMBPtMGU0wbm/200w.gif" /> -->
-   </span>
+    </span>
 </p>
 
 <p align="center">
