@@ -19,7 +19,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xrgranados on Instagram" height="28px" width="28px" />
   </a>
    <a href="https://telegram.me/xrgranados" target="blank">
-       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xrgranados on Telegram" height="28px" width="28px" />
+       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="xrgranados on Telegram" height="28px" width="28px" />
    </a>
 </p>
 
