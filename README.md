@@ -2,17 +2,8 @@
 
 <p align="center">Web developer with several years of experience building web applications using the latest backend and front-end technology.<br /></p>
 
-<p align="center" width="300">
-    <span style="border-radius: 50%;">
-<!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/javascript.gif" /> -->
-<!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" /> -->
-        <img align="center" class="cover" src="https://user-images.githubusercontent.com/1679557/174097400-bed7c449-6373-4fe0-95d7-bb504f84ce7b.gif" />  
-      <!-- <img align="center" class="cover" src="https://media1.giphy.com/media/l2R0flMBPtMGU0wbm/200w.gif" /> -->
-    </span>
-</p>
-
 <p align="center">
-   <a href="https://codepen.com/xrgranados" target="blank" style='margin-right:4px'>
+   <a href="https://codepen.com/xrgranados" target="blank" style="margin-right:4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="xrgranados on Codepen" height="28px" width="28px" />
   </a>
   <a href="https://instagram.com/xrgranados" target="blank">
@@ -25,6 +16,16 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xrgranados on Linkedin" height="28px" width="28px" />
   </a>
 </p>
+
+<p align="center" width="300">
+    <span style="border-radius: 50%;">
+<!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/javascript.gif" /> -->
+<!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" /> -->
+        <img align="center" class="cover" src="https://user-images.githubusercontent.com/1679557/174097400-bed7c449-6373-4fe0-95d7-bb504f84ce7b.gif" width="250" style="width="250"/>  
+      <!-- <img align="center" class="cover" src="https://media1.giphy.com/media/l2R0flMBPtMGU0wbm/200w.gif" /> -->
+    </span>
+</p>
+
 
 <!--
 
