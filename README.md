@@ -9,16 +9,16 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="xrgranados on Codepen" height="28px" width="28px" />
   </a> -->
   
-  <a href="https://www.linkedin.com/in/rafael-granados-b1603659/" target="blank">
+  <a href="https://www.linkedin.com/in/rafael-granados-b1603659/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xrgranados on Linkedin" height="28px" width="28px" />
   </a>
-  <a href="https://twitter.com/xrgranados" target="blank">
+  <a href="https://twitter.com/xrgranados" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xrgranados on Twitter" height="28px" width="28px" />
   </a>
-   <a href="https://instagram.com/xrgranados" target="blank">
+   <a href="https://instagram.com/xrgranados" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xrgranados on Instagram" height="28px" width="28px" />
   </a>
-   <a href="https://telegram.me/xrgranados" target="blank">
+   <a href="https://telegram.me/xrgranados" target="_blank">
        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="xrgranados on Telegram" height="28px" width="28px" />
    </a>
 </p>
