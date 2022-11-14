@@ -3,17 +3,9 @@
 <p>Web developer with several years of experience building web applications using the latest backend and front-end technology.<br /></p>
 
 <p>Experienced in developing the infrastructure behind web applications, REST APIs and hybrid mobile applications using cutting edge technologies between ReactJS, Angular, Ionic, Laravel, Codeigniter, Nodejs among others.</p>
+<br> 
+<br> 
 
-<hr>
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xrgranados&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrgranados&layout=compact&langs_count=7&theme=aura"/>
-</div>
-<br>
-<br>
-  
 ## 💼 Skills
 <div align="center">
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -28,6 +20,15 @@
 </div>
 <br> 
 <br> 
+
+## &#x1f4c8; GitHub Stats
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xrgranados&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrgranados&layout=compact&langs_count=7&theme=aura"/>
+</div>
+<br>
+<br>
 <div align="center">
   <a href="https://twitter.com/xrgranados" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="xrgranados on Twitter">
