@@ -4,69 +4,58 @@
 
 <p>Experienced in developing the infrastructure behind web applications, REST APIs and hybrid mobile applications using cutting edge technologies between ReactJS, Angular, Ionic, Laravel, Codeigniter, Nodejs among others.</p>
 
+<hr>
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xrgranados&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrgranados&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xrgranados&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrgranados&layout=compact&langs_count=7&theme=aura"/>
 </div>
-
-<p align="center">
-<!--    <a href="https://codepen.com/xrgranados" target="blank" style="margin-right:4px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="xrgranados on Codepen" height="28px" width="28px" />
-  </a> -->
-  
-  <a href="https://www.linkedin.com/in/rafael-granados-b1603659/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xrgranados on Linkedin" height="28px" width="28px" />
-  </a>
+<br>
+<br>
+<div align="center">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br> 
+<br> 
+<div align="center">
   <a href="https://twitter.com/xrgranados" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xrgranados on Twitter" height="28px" width="28px" />
+    <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="xrgranados on Twitter">
   </a>
-   <a href="https://instagram.com/xrgranados" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xrgranados on Instagram" height="28px" width="28px" />
+  <a href="https://instagram.com/xrgranados" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xrgranados on Instagram">
   </a>
-   <a href="https://telegram.me/xrgranados" target="_blank">
-       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="xrgranados on Telegram" height="28px" width="28px" />
-   </a>
-</p>
+  <a href = "mailto:xr.granados@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail xrgranados">
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-granados-b1603659/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xrgranados on LinkedIn">
+  </a>
+  <a href="https://telegram.me/xrgranados" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-%232AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="xrgranados on Telegram"/>
+  </a>
+  <a href="https://codepen.com/xrgranados" target="blank">
+    <img src="https://img.shields.io/badge/-Codepen-%23444857?style=for-the-badge&logo=codepen&logoColor=white" alt="xrgranados on Codepen"/>
+  </a>
+</div>
+<br>
 
-<p align="center" width="300">
-    <span style="border-radius: 50%;">
-<!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/javascript.gif" /> -->
-<!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" /> -->
-        <img align="center" class="cover" src="https://user-images.githubusercontent.com/1679557/174097400-bed7c449-6373-4fe0-95d7-bb504f84ce7b.gif" width="250" style="width="250"/>  
-      <!-- <img align="center" class="cover" src="https://media1.giphy.com/media/l2R0flMBPtMGU0wbm/200w.gif" /> -->
-    </span>
-</p>
-
+<div align="center">
+  <!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/javascript.gif" /> -->
+  <!--       <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" /> -->
+  <img align="center" class="cover" src="https://user-images.githubusercontent.com/1679557/174097400-bed7c449-6373-4fe0-95d7-bb504f84ce7b.gif" width="250" style="width="250"/> 
+  <br>
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+</div>                                                                                                            
 
 <!--
-
-### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev)
-
-<a href='https://youtu.be/zBTYBIUw1iw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zBTYBIUw1iw/mqdefault.jpg' alt='🔎 Cómo añadir un buscador a blog con JavaScript y totalmente gratis (JAMStack)' />
-</a>
-<a href='https://youtu.be/pqSZ5en1BQ8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pqSZ5en1BQ8/mqdefault.jpg' alt='Arquitectura frontend y productividad - Entrevista con Jason Lengstorf (JavaScript)' />
-</a>
-<a href='https://youtu.be/c9-iiVz4Av0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/c9-iiVz4Av0/mqdefault.jpg' alt='¿Deberías cambiar de trabajo cada 2 años en programación?' />
-</a>
-
-### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
-
-<a href='https://www.instagram.com/p/CPqAvtlCEsv/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/196015398_2991531411094299_6602259273376766560_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=TOhLr50aFXcAX-yF9Yr&edm=ABfd0MgBAAAA&ccb=7-4&oh=6f4140eba237a545553c11171e8ab74d&oe=60C00746&_nc_sid=7bff83' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/CPnyzd-KMTp/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/195291576_327223539017033_220255156441851457_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=3ayhZkSRjGIAX8b7YzY&edm=ABfd0MgBAAAA&ccb=7-4&oh=0ab673602995a88b154d750e6a8f6e9e&oe=60BFBA87&_nc_sid=7bff83' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/CPlKnRMCo_9/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/194631787_1725300067660723_449429223478463769_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=cg4UN1LBmTkAX9p6GQZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=069c33da6b1c09f25806e76b86181dd9&oe=60BB7604&_nc_sid=7bff83' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/CPiqUTbib6k/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/195184226_169601045021900_3231063544182590986_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=-8gd65YSrpcAX_q4-KW&edm=ABfd0MgBAAAA&ccb=7-4&oh=f50cd6846ed4a1207d61fa8af6666b2a&oe=60C00F49&_nc_sid=7bff83' alt='Instagram photo' />
-</a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
 - [Cómo añadir un buscador en tu blog JamStack con Algolia](https://midu.dev/como-anadir-buscador-blog-jamstack-algolia/)
