@@ -4,6 +4,12 @@
 
 <p>Experienced in developing the infrastructure behind web applications, REST APIs and hybrid mobile applications using cutting edge technologies between ReactJS, Angular, Ionic, Laravel, Codeigniter, Nodejs among others.</p>
 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xrgranados&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrgranados&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <p align="center">
 <!--    <a href="https://codepen.com/xrgranados" target="blank" style="margin-right:4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="xrgranados on Codepen" height="28px" width="28px" />
