@@ -57,7 +57,7 @@
   <img align="center" class="cover" src="https://user-images.githubusercontent.com/1679557/174097400-bed7c449-6373-4fe0-95d7-bb504f84ce7b.gif" width="250" style="width="250"/> 
   <br>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/xrgranados/xrgranados/blob/main/github-xrgranados-contribution.svg)
   
 </div>                                                                                                            
 
