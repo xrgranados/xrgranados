@@ -1,6 +1,6 @@
 # Hi, I'm Rafael :guatemala:
 
-<p>Web developer with several years of experience building web applications using the latest backend and front-end technology.<br /></p>
+<p>Web Developer with several years of experience building web applications using the latest backend and front-end technologies.</p><br />
 
 <p>Experienced in developing the infrastructure behind web applications, REST APIs and hybrid mobile applications using cutting edge technologies between ReactJS, Angular, Ionic, Laravel, Codeigniter, Nodejs among others.</p>
 <br> 
