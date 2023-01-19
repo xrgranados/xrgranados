@@ -8,7 +8,7 @@
 
 ## 💼 Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,react,nodejs,vue,express,css,html" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,react,nodejs,express" />
 <!--   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Rafa-Codeigniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
