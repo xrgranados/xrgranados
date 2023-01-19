@@ -1,8 +1,8 @@
 # Hi, I'm Rafael :guatemala:
 
-<p>Web Developer with several years of experience building web applications using the latest backend and front-end technologies.</p><br />
+<p> I'm a web developer with several years of experience building web applications using the latest backend and frontend technologies.</p><br />
 
-<p>Experienced in developing the infrastructure behind web applications, REST APIs and hybrid mobile applications using cutting edge technologies between ReactJS, Angular, Ionic, Laravel, Codeigniter, Nodejs among others.</p>
+<p>I have experience developing the infrastructure behind web applications, REST APIs and hybrid mobile applications using cutting edge technologies such as ReactJS, Ionic, Laravel, Codeigniter, Nodejs among others.</p>
 <br> 
 <br> 
 
@@ -22,13 +22,13 @@
 <br> 
 <br> 
 
-## &#x1f4c8; GitHub Stats
-<div align="center">
+<!-- ## &#x1f4c8; GitHub Stats -->
+<!-- <div align="center">
   <a href="https://github.com/xrgranados">
     ![](https://raw.githubusercontent.com/xrgranados/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xrgranados&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrgranados&layout=compact&langs_count=7&theme=aura"/> -->
-</div>
+</div> -->
 <br>
 <br>
 <div align="center">
