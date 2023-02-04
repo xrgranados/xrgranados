@@ -8,7 +8,7 @@
 
 ## 💼 Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,react,nodejs,express" />
 <!--   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Rafa-Codeigniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
@@ -32,12 +32,7 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://twitter.com/xrgranados" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="xrgranados on Twitter">
-  </a>
-  <a href="https://instagram.com/xrgranados" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xrgranados on Instagram">
-  </a>
+  
   <a href = "mailto:xr.granados@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail xrgranados">
   </a>
@@ -49,6 +44,12 @@
   </a>
   <a href="https://codepen.com/xrgranados" target="blank">
     <img src="https://img.shields.io/badge/-Codepen-%23444857?style=for-the-badge&logo=codepen&logoColor=white" alt="xrgranados on Codepen"/>
+  </a>
+  <a href="https://twitter.com/xrgranados" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="xrgranados on Twitter">
+  </a>
+  <a href="https://instagram.com/xrgranados" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xrgranados on Instagram">
   </a>
 </div>
 <br>
@@ -69,7 +70,6 @@
 - [Cómo añadir un buscador en tu blog JamStack con Algolia](https://midu.dev/como-anadir-buscador-blog-jamstack-algolia/)
 - [Cómo usar rutas absolutas en los imports en Next.js](https://midu.dev/deja-de-usar-imports-relativos-next-js/)
 - [Cómo crear un spinner loader con CSS 🌀](https://midu.dev/como-crear-un-spinner-con-css/)
-- [Cómo no hacer un Live Coding Challenge de mierda 💩 - 03x04](https://midu.dev/podcast/03_04_como-no-hacer-un-live-coding-challenge-de-mierda/)
 - [Cómo arreglar el error "Warning: React has detected a change in the order of Hooks"](https://midu.dev/como-arreglar-error-react-has-detected-change-order-hooks/)
 
 
