@@ -2,6 +2,8 @@
 
 <p> I'm a web developer with several years of experience building web applications using the latest backend and frontend technologies.</p><br />
 
+
+
 <p>I have experience developing the infrastructure behind web applications, REST APIs and hybrid mobile applications using cutting edge technologies such as ReactJS, Ionic, Laravel, Codeigniter, Nodejs among others.</p>
 <br> 
 <br> 
