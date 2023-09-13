@@ -57,8 +57,8 @@
 <br>
 
 <div align="center">
-<!--         <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/javascript.gif" /> -->
-        <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" />
+        <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/javascript.gif" />
+<!--         <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" /> -->
 <!--   <img align="center" class="cover" src="https://user-images.githubusercontent.com/1679557/174097400-bed7c449-6373-4fe0-95d7-bb504f84ce7b.gif" width="250" style="width="250"/>  -->
 <!--   <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/f557c4e081c83afecc85c35bf6f6d2c116d4f0b1/assets/img/circle.gif" width="250" style="width="250"/>  -->
   
