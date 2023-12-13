@@ -59,7 +59,7 @@
 <div align="center">
     <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/assets/1679557/4b036fc8-b97b-49b9-a888-4363023f5ad3" />
         
-<!-- <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" /> -->
+<img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/main/letters.gif" />
 <!--  <img align="center" class="cover" src="https://user-images.githubusercontent.com/1679557/174097400-bed7c449-6373-4fe0-95d7-bb504f84ce7b.gif" width="250" style="width="250"/>  --> 
 <!-- <img align="center" class="cover" src="https://github.com/xrgranados/xrgranados/blob/f557c4e081c83afecc85c35bf6f6d2c116d4f0b1/assets/img/circle.gif" width="250" style="width="250" /> --> 
   
@@ -71,13 +71,5 @@
 </div>                                                                                                            
 
 <!--
-
-### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
-- [Cómo añadir un buscador en tu blog JamStack con Algolia](https://midu.dev/como-anadir-buscador-blog-jamstack-algolia/)
-- [Cómo usar rutas absolutas en los imports en Next.js](https://midu.dev/deja-de-usar-imports-relativos-next-js/)
-- [Cómo crear un spinner loader con CSS 🌀](https://midu.dev/como-crear-un-spinner-con-css/)
-- [Cómo arreglar el error "Warning: React has detected a change in the order of Hooks"](https://midu.dev/como-arreglar-error-react-has-detected-change-order-hooks/)
-
-
 **xrgranados/xrgranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
