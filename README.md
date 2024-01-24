@@ -4,7 +4,7 @@
 
 
 
-<p>I have experience developing the infrastructure behind web applications, REST APIs and hybrid mobile applications using cutting edge technologies such as ReactJS, Ionic, Laravel, Codeigniter, Nodejs among others.</p>
+<p>I have experience developing the infrastructure behind web applications, REST APIs and hybrid mobile applications using cutting edge technologies such as ReactJS, Ionic, Laravel, Codeigniter, Nodejs among others</p>
 <br> 
 <br> 
 
