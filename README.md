@@ -1,5 +1,8 @@
 # Hi, I'm Rafael :guatemala:
 
+<p>Passionate about building robust backend systems with PHP and Node.js. Enthusiastic problem solver, dedicated to creating efficient solutions.</p>
+
+
 <p> I'm a web developer with several years of experience building web applications using the latest backend and frontend technologies.</p><br />
 
 
