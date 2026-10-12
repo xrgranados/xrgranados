@@ -47,14 +47,8 @@
   <a href="https://telegram.me/xrgranados" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-%232AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="xrgranados on Telegram"/>
   </a>
-  <a href="https://codepen.com/xrgranados" target="blank">
-    <img src="https://img.shields.io/badge/-Codepen-%23444857?style=for-the-badge&logo=codepen&logoColor=white" alt="xrgranados on Codepen"/>
-  </a>
   <a href="https://twitter.com/xrgranados" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="xrgranados on Twitter">
-  </a>
-  <a href="https://instagram.com/xrgranados" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xrgranados on Instagram">
   </a>
 </div>
 <br>
