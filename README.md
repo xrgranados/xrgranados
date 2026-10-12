@@ -47,8 +47,8 @@
   <a href="https://telegram.me/xrgranados" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-%232AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="xrgranados on Telegram"/>
   </a>
-  <a href="https://twitter.com/xrgranados" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="xrgranados on Twitter">
+  <a href="https://wa.me/xrgranados" target="_blank">
+    <img src="https://img.shields.io/badge/-whatsapp-%2321C063?style=for-the-badge&logo=whatsapp&logoColor=white" alt="@xrgranados on Whatsapp">
   </a>
 </div>
 <br>
